@@ -1,2 +1,2 @@
 # LTMotation
-学习LUA语言
+LUA语言学习与交流
